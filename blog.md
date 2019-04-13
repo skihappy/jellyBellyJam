@@ -16,4 +16,7 @@ Every Saturday/Sunday from 2pm to dask
 ## Volunteers needed
 Help to setup and break down audio equipment. Dont forget to log your volunteer hours.
 
+## Chat, ask questions, make suggestions
+https://spectrum.chat/csc-jelly-belly-jam?tab=posts
+
 <iframe src="https://player.vimeo.com/video/329664024" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
